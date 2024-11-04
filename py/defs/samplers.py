@@ -11,4 +11,7 @@ SAMPLERS = {
     "SamplerCustomAdvanced": {
         "positive": "guider",
     },
+    "SamplerCustom": {
+        # I don't know what to put here
+    },
 }
