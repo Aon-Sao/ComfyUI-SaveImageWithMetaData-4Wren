@@ -9,7 +9,7 @@
 ## Installation
 ```
 cd <ComfyUI directory>/custom_nodes
-git clone https://github.com/nkchocoai/ComfyUI-SaveImageWithMetaData.git
+git clone https://github.com/Aon-Sao/ComfyUI-SaveImageWithMetaData-4Wren.git
 ```
 
 ## Nodes
